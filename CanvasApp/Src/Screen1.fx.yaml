@@ -16,3 +16,9 @@ Screen1 As screen:
         Y: =376
         ZIndex: =2
 
+    Button2 As button:
+        Text: ="Aishwarya"
+        X: =60
+        Y: =60
+        ZIndex: =3
+
